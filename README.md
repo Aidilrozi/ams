@@ -1,2 +1,0 @@
-# ams
-aviation management system
